@@ -1,0 +1,6 @@
+pymupdf
+python-dotenv
+rank_bm25
+groq
+fastapi
+uvicorn
